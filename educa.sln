@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "educa", "educa\educa.csproj", "{CCCBF821-D4F0-4997-B0A9-D63BE24882F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "UnitTests\Classes.csproj", "{1F0BFC6F-F8CA-46CB-A49E-01166FE7FB44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{CCCBF821-D4F0-4997-B0A9-D63BE24882F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCCBF821-D4F0-4997-B0A9-D63BE24882F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCCBF821-D4F0-4997-B0A9-D63BE24882F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F0BFC6F-F8CA-46CB-A49E-01166FE7FB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0BFC6F-F8CA-46CB-A49E-01166FE7FB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0BFC6F-F8CA-46CB-A49E-01166FE7FB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0BFC6F-F8CA-46CB-A49E-01166FE7FB44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

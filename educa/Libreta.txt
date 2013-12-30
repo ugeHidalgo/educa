@@ -1,0 +1,17 @@
+﻿# Aceptacio ́n - "2 + 2", devuelve 4
+La cadena "2 + 2"tiene dos n ́umeros y un operador que son ’2’, ’2’ y ’+’
+# Aceptacio ́n - "5+4*2/2",devuelve9
+# Aceptacio ́n - "3 / 2", produce ERROR
+# Aceptacio ́n - "* * 4 - 2": produce ERROR 
+# Aceptacio ́n - "* 4 5 - 2": produce ERROR 
+# Aceptacio ́n - "* 4 5 - 2 : produce ERROR 
+# Aceptacio ́n - "*45-2-": produce ERROR
+# Aceptacio ́n - "2 + -2"devuelve 0
+# Aceptacio ́n - L ́ımite Superior =100
+# Aceptacio ́n - L ́ımite Superior =500
+# Aceptacio ́n - L ́ımite Inferior = -1000
+# Aceptacio ́n - L ́ımite Inferior = -10
+# Aceptacio ́n - Limite Superior=100 y par ́ametro mayor que 100, produce ERROR 
+# Aceptacio ́n - Limite Superior=100 y resultado mayor que 100, produce ERROR 
+# Aceptacio ́n - Limite Inferior=10 y par ́ametro menor que 10, produce ERROR 
+# Aceptacio ́n - Limite Inferior=10 y resultado menor que 10, produce ERROR
